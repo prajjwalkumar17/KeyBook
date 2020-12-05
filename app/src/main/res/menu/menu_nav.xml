@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/note"
+        android:title="Dashboard" />
+
+
+    <item
+        android:id="@+id/nav_design"
+        android:icon="@drawable/dashboard"
+        android:title="Design" />
+
+
+    <item
+        android:id="@+id/nav_guide"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="Guide" />
+
+</menu>

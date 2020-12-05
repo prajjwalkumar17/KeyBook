@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873767079674",
+    "firebase_url": "https://keybook-808ac.firebaseio.com",
+    "project_id": "keybook-808ac",
+    "storage_bucket": "keybook-808ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873767079674:android:c1efdb8014e20dbcd08343",
+        "android_client_info": {
+          "package_name": "com.rejointech.keybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873767079674-15fh23p6vgrl7q25mcp19m491m4tnuju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rejointech.keybook",
+            "certificate_hash": "8b933b2eda42ea92dc212872637637c3837929ab"
+          }
+        },
+        {
+          "client_id": "873767079674-risthucbo05grhltv499615u4v90h1sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0PY4mtLwl9IfOxb1MrxN2AgoNYIJgsIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873767079674-risthucbo05grhltv499615u4v90h1sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
